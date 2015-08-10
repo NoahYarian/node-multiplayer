@@ -1,0 +1,22 @@
+{
+  "name": "node-multiplayer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoahYarian/node-multiplayer.git"
+  },
+  "author": "Noah Yarian <Noah.Yarian@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NoahYarian/node-multiplayer/issues"
+  },
+  "homepage": "https://github.com/NoahYarian/node-multiplayer#readme",
+  "dependencies": {
+    "socket.io": "^1.3.6"
+  }
+}
